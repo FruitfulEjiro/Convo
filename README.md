@@ -31,7 +31,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Font-Awesome Icons](https://fontawesome.com/) - For Icons
+- Font-Awesome Icons[https://fontawesome.com/] - For Icons
 
 
 ### What I learned
@@ -41,9 +41,6 @@ Utilizing CSS Grid: I learned how to leverage CSS Grid to create responsive and 
 Creating a Hamburger Menu with CSS and HTML: I gained the knowledge of building a stylish and functional hamburger menu solely using CSS and HTML, which enhances user experience and navigation on smaller screens.
 
 Implementing Media Queries: I discovered the power of media queries to apply different styles and layouts based on the user's device screen size, ensuring a seamless experience across various devices.
-
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 ### Continued development
