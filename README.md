@@ -31,7 +31,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- Font-Awesome Icons[https://fontawesome.com/] - For Icons
+- Icons - [Font-Awesome Icons](https://fontawesome.com/)
 
 
 ### What I learned
