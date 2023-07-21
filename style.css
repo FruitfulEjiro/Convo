@@ -3747,7 +3747,7 @@
 
     .banner {
         width: 100%;
-        height:90vh;
+        height:100vh;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -3761,7 +3761,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: flex-end;
-        padding:0rem 2rem 1rem 2rem;
+        padding:0rem 2rem 2rem 2rem;
     }
 
     .bannerText {
@@ -3770,13 +3770,13 @@
         font-family: Arial, Helvetica, sans-serif;
         font-weight: 600;
         color:#1e8ee3;
-        margin: 1rem 0rem 1rem 0rem;
+        margin: 1rem 0rem 0rem 0rem;
     }
 
     .subText {
         font-size: 1rem;
         text-align: center;
-        margin: 1rem 0rem 1rem 0rem;
+        margin: 0rem 0rem 2.5rem 0rem;
     }
 
     .subText br {
@@ -3785,7 +3785,7 @@
 
     .bannerImg {
         width: 100%;
-        height: 22rem;
+        height: 20rem;
         background: url(./images/assignment_Image.jpeg) center/cover no-repeat;
         margin: 1rem 0rem 0rem 0rem;
     }
@@ -4434,7 +4434,7 @@
         padding:0rem 0rem 0rem 0rem;
         font-family:Arial, Helvetica, sans-serif;
         font-weight:600;
-        margin:0rem 0.5rem 0rem 0.5rem;
+        margin:0rem 1rem 0rem 1rem;
     }
 
     .loginAndSignup {
@@ -4486,7 +4486,7 @@
 
     .banner {
         width: 100%;
-        height:90vh;
+        height:100vh;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -4500,7 +4500,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: flex-end;
-        padding:0rem 2rem 1rem 2rem;
+        padding:0rem 2rem 2rem 2rem;
     }
 
     .bannerText {
@@ -4508,14 +4508,14 @@
         font-family: Arial, Helvetica, sans-serif;
         font-weight: 600;
         color:#1e8ee3;
-        margin: 1rem 0rem 0.5rem 0rem;
+        margin: 1rem 0rem 0rem 0rem;
     }
     
     .subText {
         width:75%;
         font-size: 0.8rem;
         text-align: center;
-        margin: 0rem 0rem 4rem 0rem;
+        margin: 0rem 0rem 3rem 0rem;
     }
 
     .subText br {
@@ -4524,7 +4524,7 @@
 
     .bannerImg {
         width: 100%;
-        height: 22rem;
+        height: 21rem;
         background: url(./images/assignment_Image.jpeg) center/cover no-repeat;
         margin: 1rem 0rem 0rem 0rem;
     }
@@ -5239,7 +5239,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: flex-end;
-        padding:0rem 2rem 1rem 2rem;
+        padding:0rem 2rem 2rem 2rem;
     }
 
     .bannerText {
@@ -5247,14 +5247,14 @@
         font-family: Arial, Helvetica, sans-serif;
         font-weight: 600;
         color:#1e8ee3;
-        margin: 1rem 0rem 0.5rem 0rem;
+        margin: 1rem 0rem 0rem 0rem;
     }
     
     .subText {
         width:75%;
         font-size: 0.8rem;
         text-align: center;
-        margin: 0rem 0rem 2rem 0rem;
+        margin: 0rem 0rem 3rem 0rem;
     }
 
     .subText br {
@@ -5965,7 +5965,7 @@
 
     .banner {
         width: 100%;
-        height:90vh;
+        height:100vh;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -5979,7 +5979,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: flex-end;
-        padding:0rem 2rem 1rem 2rem;
+        padding:0rem 5rem 2rem 5rem;
     }
 
     .bannerText {
@@ -5987,14 +5987,14 @@
         font-family: Arial, Helvetica, sans-serif;
         font-weight: 600;
         color:#1e8ee3;
-        margin: 1rem 0rem 0.5rem 0rem;
+        margin: 1rem 0rem 0rem 0rem;
     }
     
     .subText {
         width:75%;
         font-size: 0.8rem;
         text-align: center;
-        margin: 0rem 0rem 4rem 0rem;
+        margin: 0rem 0rem 3rem 0rem;
     }
 
     .subText br {
@@ -6705,7 +6705,7 @@
 
     .banner {
         width: 100%;
-        height:90vh;
+        height:100vh;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -6719,7 +6719,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: flex-end;
-        padding:0rem 2rem 1rem 2rem;
+        padding:0rem 2rem 2rem 2rem;
     }
 
     .bannerText {
@@ -6727,14 +6727,14 @@
         font-family: Arial, Helvetica, sans-serif;
         font-weight: 600;
         color:#1e8ee3;
-        margin: 1rem 0rem 0.5rem 0rem;
+        margin: 1rem 0rem 0rem 0rem;
     }
     
     .subText {
         width:75%;
         font-size: 0.9rem;
         text-align: center;
-        margin: 0rem 0rem 4rem 0rem;
+        margin: 0rem 0rem 3rem 0rem;
     }
 
     .subText br {
