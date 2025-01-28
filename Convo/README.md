@@ -1,3 +1,5 @@
+# React + Vite
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -26,19 +28,17 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic ReactJS
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- Icons - [Font-Awesome Icons](https://fontawesome.com/)
+- Icons - [React Icons](https://react-icons.github.io/react-icons/)
 
 
 ### What I learned
 
-Utilizing CSS Grid: I learned how to leverage CSS Grid to create responsive and flexible layouts, making it easier to arrange and align elements within the web page effectively.
-
-Creating a Hamburger Menu with CSS and HTML: I gained the knowledge of building a stylish and functional hamburger menu solely using CSS and HTML, which enhances user experience and navigation on smaller screens.
+Utilizing React: I learned how to leverage React to create responsive and flexible layouts, making it easier to arrange and align elements within the web page effectively.
 
 Implementing Media Queries: I discovered the power of media queries to apply different styles and layouts based on the user's device screen size, ensuring a seamless experience across various devices.
 
@@ -51,4 +51,7 @@ In the future, I plan to enhance the project by incorporating a carousel feature
 ## Author
 
 - Twitter - [@frutfl](https://www.twitter.com/frutfl)
-- LinkedIn - [@frutfl](https://www.linkedin.com/in/frutfl/)
+- LinkedIn - [@frutfl](https://www.linkedin.com/in/frutfle/)
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
